@@ -1,0 +1,75 @@
+
+body{
+  background-image: url("https://i.stack.imgur.com/NEuip.jpg");
+}
+p{
+  color:white;
+  font-size:20px;
+}
+img {
+  max-width: 250px;
+  border: 2px dotted red;
+}
+button,
+div,
+form,
+input {
+  margin: 10px;
+} 
+.search{
+  display: inline;
+}
+#buttons-view {
+  float:left;
+  margin: 0px;
+  padding: 20px;
+  margin-left: -12px;
+  display: inline;
+}
+
+#search-form {
+  float: left;
+}
+
+#search-input {
+  border: 2px solid grey;
+  background-color: bisque;
+  color:purple;
+  font-size:15px;
+}
+
+#search-movie {
+  /* margin-right:-100px; */
+  border: 2px solid grey;
+  background: blueviolet;
+  color:white;
+}
+
+.gif {
+  background: bisque;
+  font-weight: bold;
+  min-width:150px;
+}
+nav {
+  text-align: center;
+  /* background-color:transparent; */
+  color: "black";
+  height: auto;
+}
+h1{
+  font-size: 60px;
+}
+label{
+  font-size: 25px;
+  color: white;
+}
+#gifs-appear-here {
+  float: right;
+  margin-top: 0px;
+  margin-left: -100px;
+  display: inline;
+}
+.gif_img {
+  display: inline;
+  min-width:300px;
+}
